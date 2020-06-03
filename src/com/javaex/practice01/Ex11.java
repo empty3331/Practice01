@@ -12,8 +12,9 @@ public class Ex11 {
 		
 		System.out.print("월급을 입력하세요:");
 		int num = sc.nextInt();
+		int sum = num*120;
 		
-		System.out.print("10년동안 최대 저축액은 " + num*12 +"원 입니다.");
+		System.out.print("10년동안 최대 저축액은 " + sum +"원 입니다.");
 		
 		sc.close();
 
