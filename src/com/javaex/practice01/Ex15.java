@@ -19,6 +19,7 @@ public class Ex15 {
 		double km = mile*con;
 		
 		
+		
 		System.out.print(mile+"마일은 "+km+"킬로미터 입니다.");
 		sg.close();
 				
